@@ -17,13 +17,14 @@
       repeat: no-repeat
       size: cover
     .thumb-overlay
-      +position(absolute, 100% 0px null 0px)
+      //+position(absolute, 100% 0px null 0px)
+      +position(absolute, 65% 0px null 0px)
       height: 100%
       background: fade-out(#333, 0.5)
       text-align: center
       //+transition
       +display(flex)
-      +align-items(center)
+      //+align-items(center)
       +justify-content(space-around)
       strong
         display: block
@@ -35,6 +36,7 @@
           weight: 300
     &:hover .thumb-overlay
       +position(absolute, 0px 0px null 0px)
+      +align-items(center)
 
 @media (max-width: 768px)
   .thumb-container
