@@ -3,6 +3,8 @@ layout: post
 title: 'New Westminster Analytics'
 ---
 
+*Utilized: Java, SQLite*
+
 Ever wondered what our neighborhood is like statistically? This Android App visualizes the demographics, buildings, and businesses in the City of New Westminster.
 
 {% include image.html image="projects/new-westminster-analytics/population.jpg" %}

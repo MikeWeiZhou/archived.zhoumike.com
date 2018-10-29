@@ -3,6 +3,8 @@ layout: post
 title: 'KPI Visualizations'
 ---
 
+*Utilized: TypeScript, JavaScript, NodeJS (Google Cloud App Engine), MySQL (Google Cloud SQL)*
+
 This web app collates and visualizes continuous integration data as key performance indicators to aid the optimization of project development processes.
 
 The app is designed with three main goals/requirements:

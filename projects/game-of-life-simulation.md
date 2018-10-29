@@ -3,6 +3,8 @@ layout: post
 title: 'Game of Life Simulation'
 ---
 
+*Utilized: Java*
+
 A simulation of the food-chain. Starring omnivores, carnivores, herbivores, plants, water, and land. Once the balance of prey-vs-predator is out-of-whack, the end is near.
 
 The original idea was to just have fun developing. Eventually, the idea to experiment with the tipping-point of the food-chain became the goal.
