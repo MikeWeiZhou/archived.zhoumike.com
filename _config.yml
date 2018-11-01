@@ -1,17 +1,17 @@
 # Build settings
 
-markdown: kramdown
+markdown:  kramdown
 permalink: none
-plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 port: 4000
 
 sass:
   sass_dir: assets/css
-  style: :nested
+  style:    :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Zhou, Mike"
-description:	       "Full Stack Developer"
-author:              "Zhou, Mike"
+title:		   "Zhou, Mike"
+description: "Full Stack Developer"
+author:      "Zhou, Mike"
