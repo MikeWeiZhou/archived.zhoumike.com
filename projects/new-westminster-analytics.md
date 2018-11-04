@@ -5,6 +5,14 @@ title: 'New Westminster Analytics'
 
 *Utilized: Java, SQLite*
 
+<a href="https://www.youtube.com/watch?v=fL0Q3jzNJzs">
+  View Demo Video (73 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>
+</a>
+
+<a href="https://github.com/MikeWeiZhou/new-westminster-analytics">
+  View GitHub Codebase <i class="fa fa-arrow-right" aria-hidden="false"></i>
+</a>
+
 Ever wondered what our neighborhood is like statistically? This Android App visualizes the demographics, buildings, and businesses in the City of New Westminster.
 
 {% include image.html image="projects/new-westminster-analytics/population.jpg" %}
@@ -18,11 +26,3 @@ The building age is also visualized with a heatmap where red means newer and gre
 {% include image.html image="projects/new-westminster-analytics/business.jpg" %}
 
 Business visualizations: density heatmap and most popular businesses chart.
-
-<a href="https://www.youtube.com/watch?v=fL0Q3jzNJzs">
-  View Demo Video (73 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>
-</a>
-
-<a href="https://github.com/MikeWeiZhou/new-westminster-analytics">
-  View GitHub Codebase <i class="fa fa-arrow-right" aria-hidden="false"></i>
-</a>
