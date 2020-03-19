@@ -10,7 +10,7 @@ title: 'Game of Life Simulation'
 </a>
 
 <a href="https://github.com/MikeWeiZhou/game-of-life-simulation">
-  View GitHub Codebase <i class="fa fa-arrow-right" aria-hidden="false"></i>
+  View Source (GitHub) <i class="fa fa-arrow-right" aria-hidden="false"></i>
 </a>
 
 A simulation of the food-chain. Starring omnivores, carnivores, herbivores, plants, water, and land. Once the balance of prey-vs-predator is out-of-whack, the end is near.

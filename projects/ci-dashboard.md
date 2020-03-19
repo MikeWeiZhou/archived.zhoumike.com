@@ -10,7 +10,7 @@ title: 'CI Dashboard'
 </a>
 
 <a href="https://github.com/MikeWeiZhou/ci-dashboard">
-  View GitHub Codebase <i class="fa fa-arrow-right" aria-hidden="false"></i>
+  View Source (GitHub) <i class="fa fa-arrow-right" aria-hidden="false"></i>
 </a>
 
 This web app visualizes continuous integration performance metrics with simple moving averages to aid the optimization of project development processes.

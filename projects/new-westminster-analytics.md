@@ -6,11 +6,11 @@ title: 'New Westminster Analytics'
 *Utilized: Java, SQLite*
 
 <a href="https://www.youtube.com/watch?v=fL0Q3jzNJzs">
-  View Demo Video (73 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>
+  View Demo Video (1 minute and 13 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>
 </a>
 
 <a href="https://github.com/MikeWeiZhou/new-westminster-analytics">
-  View GitHub Codebase <i class="fa fa-arrow-right" aria-hidden="false"></i>
+  View Source (GitHub) <i class="fa fa-arrow-right" aria-hidden="false"></i>
 </a>
 
 Ever wondered what our neighborhood is like statistically? This Android App visualizes the demographics, buildings, and businesses in the City of New Westminster.
