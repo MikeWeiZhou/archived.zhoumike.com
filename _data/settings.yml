@@ -52,7 +52,7 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'KPI Visualizations', folder: 'kpi-visualizations', file: 'projects/kpi-visualizations.html'}
+- {name: 'CI Dashboard', folder: 'ci-dashboard', file: 'projects/ci-dashboard.html'}
 - {name: 'New Westminster Analytics', folder: 'new-westminster-analytics', file: 'projects/new-westminster-analytics.html'}
 - {name: 'Game of Life Simulation', folder: 'game-of-life-simulation', file: 'projects/game-of-life-simulation.html'}
 
