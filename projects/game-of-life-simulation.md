@@ -3,7 +3,7 @@ layout: post
 title: 'Game of Life Simulation'
 ---
 
-*Utilized: Java*
+*Tech Stack: Java*
 
 <a href="https://youtu.be/1l658kcB-rE">
   View Demo Video (47 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>

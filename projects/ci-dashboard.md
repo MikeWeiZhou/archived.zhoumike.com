@@ -3,7 +3,7 @@ layout: post
 title: 'CI Dashboard'
 ---
 
-*Utilized: TypeScript, JavaScript, NodeJS, MySQL*
+*Tech Stack: TypeScript, JavaScript, NodeJS, MySQL, Google Cloud*
 
 <a href="https://youtu.be/Y68BDMc2x78">
   View Demo Video (1 minute and 52 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>

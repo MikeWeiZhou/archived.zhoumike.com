@@ -3,7 +3,7 @@ layout: post
 title: 'New Westminster Analytics'
 ---
 
-*Utilized: Java, SQLite*
+*Tech Stack: Java, SQLite*
 
 <a href="https://www.youtube.com/watch?v=fL0Q3jzNJzs">
   View Demo Video (1 minute and 13 seconds) <i class="fa fa-arrow-right" aria-hidden="true"></i>
