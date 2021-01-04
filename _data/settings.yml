@@ -62,6 +62,6 @@ projects:
 social:
 - {icon: 'github', link: 'https://github.com/MikeWeiZhou'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/zhoumike'}
-- {icon: 'envelope', link: 'mailto:mikeweizhou@gmail.com'}
+- {icon: 'envelope', link: 'mailto:mike@lastorbit.co'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
